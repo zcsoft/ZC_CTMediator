@@ -5,5 +5,7 @@ ZC_CTMediator
 
 这是CTMediator的整理版本，去掉了CocoPods依赖，增加了一些注释。
 
-＊原始版本（需要）：http://casatwy.com/iOS-Modulization.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+
+＊[原始版本] (http://casatwy.com/iOS-Modulization.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
